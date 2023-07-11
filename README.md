@@ -2,9 +2,14 @@
 
 ## Learning Goals
 
+- Handling click and submit events :star2:
+- Event delegation and propagation
+- .preventDefault()
+- HTML forms
+
 ## Event Deliverables
-- When someone clicks on the `X` button it "closes" the messenger
-  - By "closes" we mean that it removes the message window from the DOM
+
+- When someone clicks on the `X` button it "closes" the messenger by removing it from the DOM
 
 - When the `<span>` for `File` is clicked a `console.log` happens that reads: `Hello world`
 
