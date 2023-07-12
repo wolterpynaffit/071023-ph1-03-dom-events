@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Handling click and submit events :star2:
+- Handling click and submit events
 - Event delegation and propagation
 - .preventDefault()
 - HTML forms
