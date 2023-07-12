@@ -25,4 +25,4 @@
 
 - *BONUS*: The new `<p>` for the message is prepended with a `<span>` that includes the timestamp and the class name `blue-text`
 
-- *SUPER BONUS*: When a `<p>` message is clicked, hide or show the timestamp on the message
+- *SUPER BONUS*: When a `<p>` message is clicked, remove the message from the DOM
